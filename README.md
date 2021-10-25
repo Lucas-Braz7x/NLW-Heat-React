@@ -2,7 +2,7 @@
 
 ## NLW - Heat - Rocketseat
 
-Aplicação desenvolviida na trilha de react da NLW-Heat 
+Aplicação desenvolviida na trilha impulse da NLW-Heat 
 
 ## Tecnologias
 
