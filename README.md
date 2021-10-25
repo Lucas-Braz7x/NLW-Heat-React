@@ -2,7 +2,7 @@
 
 ## NLW - Heat - Rocketseat
 
-Aplicação desenvolviida na tilha de react da NLW-Heat 
+Aplicação desenvolviida na trilha de react da NLW-Heat 
 
 ## Tecnologias
 
@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-É uma aplicação facilita a intereção nas lives/streams através de perguntas onde é necessário a autenticação com o github. A cada 3s a aplicação atualiza as perguntas feitas e exibem para o usuário. 
+É uma aplicação facilita a interação nas lives/streams através de perguntas onde é necessário a autenticação com o github. A cada 3s a aplicação atualiza as perguntas feitas e exibem para o usuário. 
 
 ## Para rodar o projeto:
 
